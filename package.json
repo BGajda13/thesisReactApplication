@@ -1,0 +1,36 @@
+{
+  "name": "drzewo-rodzinne",
+  "version": "1.0.0",
+  "description": "Praca inżynierska",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@date-io/date-fns": "1.3.11",
+    "@material-ui/core": "4.9.14",
+    "@material-ui/icons": "4.9.1",
+    "@material-ui/pickers": "3.2.9",
+    "d3": "5.5.0",
+    "date-fns": "2.11.1",
+    "material-ui": "0.20.2",
+    "moment": "2.26.0",
+    "react": "16.13.1",
+    "react-d3-graph": "2.4.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

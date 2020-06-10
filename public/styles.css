@@ -1,0 +1,36 @@
+html,
+body {
+  height: 100%;
+  margin: 0px;
+}
+body {
+  background-image: url("ignasi_pattern_s.png");
+}
+#root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 100%;
+  margin-top: 0px;
+}
+
+#header {
+  display: flex;
+  flex-direction: column;
+}
+
+#graph-id-graph-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+svg {
+  margin-bottom: 0px;
+  flex-direction: column;
+  flex: 1;
+}
+
+#drawer > div {
+  background-image: url("arches.png");
+}
